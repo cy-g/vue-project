@@ -1,0 +1,4 @@
+本系统是基于vue搭建外卖平台系统，需要搭配node后台管理系统运行（后台系统地址：https://github.com/cy-g/node_myproject.git）
+1.src/profile/Userinfo.vue下有阿里oss云储存功能，用户需要自己配置使用
+2.在node环境下 npm run dev 启动项目
+3.用户名密码在后台系统当中.sql文件下
